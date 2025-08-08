@@ -35,6 +35,6 @@ Se você deseja executar e modificar o projeto localmente, siga os passos abaixo
 3.  **Abra o arquivo `index.html` no seu navegador**
 
 ### Autor
-**SEU NOME**
+**Leonardo Teixeira**
 * [GitHub](https://github.com/LeonardoTeixeiraa)
 * [LinkedIn](https://www.linkedin.com/in/leonardo-teixeira-52742b2b9)
